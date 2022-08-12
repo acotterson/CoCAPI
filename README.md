@@ -1,2 +1,2 @@
 # CoCAPI
-Deployed: 
+Deployed: [CoC](https://acotterson.github.io/CoCAPI/)
